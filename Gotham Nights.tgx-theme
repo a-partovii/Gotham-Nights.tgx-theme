@@ -1,0 +1,44 @@
+!
+name: "Gotham Nights"
+time: 1756820869
+author: "a_partovii"
+@
+bubbleCorner: 19
+bubbleOutline: 1
+parentTheme: 2
+#
+background, fileAttach: #212121
+badge, bubbleOut_progress, chatListAction, chatSendButton, online, seekDone, ticks, ticksRead: #1EAAF1
+bubble_chatSeparator, bubble_mediaReply, bubbleIn_separator, iv_separator, separator: #303030
+bubble_mediaReply_noWallpaper, bubbleOut_background, circleButtonRegular, headerBackground, ivHeader, messageVerticalLine, playerCoverPlaceholder: #222E3C
+bubble_messageSelection, bubble_messageSelectionNoWallpaper, messageSelection: #1EAAF18E
+bubbleIn_textLink, bubbleOut_file, bubbleOut_textLink, file, fileGreen, fileRed, fileYellow, iv_textLink, textLink, togglerActiveBackground: #58AAE8
+bubbleIn_textLinkPressHighlight, textLinkPressHighlight: #58AAE867
+bubbleOut_chatVerticalLine: #FDFDFD
+bubbleOut_inlineText: #FFFAFA
+bubbleOut_textLinkPressHighlight: #58AAE864
+bubbleOut_ticks, bubbleOut_ticksRead, fillingPositive: #5EAAD0
+bubbleOut_waveformActive, waveformActive: #7BD1FD
+bubbleOut_waveformInactive, waveformInactive: #555
+circleButtonChatIcon, playerButtonActive: #FFF
+drawer: #FFF0
+filling: #151515
+fillingPressed: #242423
+iconActive: #107AB1
+iconLight: #A0A0A0
+iv_pageTitle: #006ABB
+iv_textLinkPressHighlight: #4487BA68
+iv_textMarkedBackground: #FFFF004D
+ivHeaderIcon: #AAA
+messageAuthor: #73BCF3
+playerCoverIcon: #FAFCFF
+previewBackground: #19191981
+promo: #4CC3FF
+spoilerMediaOverlay: #2F2D2D40
+textNeutral: #C8C7C7
+textSearchQueryHighlight: #519BD3
+textSelectionHighlight: #498298
+togglerActive, togglerInactive: #FFFDFD
+togglerInactiveBackground: #8A8A8A
+togglerPositive: #0D9C1F
+togglerPositiveBackground: #64D872
