@@ -2,10 +2,13 @@
 name: "Gotham Nights"
 time: 1757765871
 author: "a_partovii"
+wallpaper: "Gbi3zeIXgVIBAAAAbHXUth5xfMc"
 @
 bubbleCorner: 19
 bubbleOutline: 1
 parentTheme: 2
+wallpaperId, wallpaperOverrideButton, wallpaperOverrideDate, wallpaperOverrideMediaReply, wallpaperOverrideOverlay, wallpaperOverrideTime, wallpaperOverrideUnread: 0
+wallpaperUsageId: 2
 #
 background, fileAttach: #212121
 badge, bubbleOut_progress, chatListAction, chatSendButton, online, seekDone, ticks, ticksRead: #1EAAF1
