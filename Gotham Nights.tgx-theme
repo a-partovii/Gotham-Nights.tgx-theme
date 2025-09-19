@@ -1,19 +1,19 @@
 !
-name: "Gotham Nights"
+name: "Gotham Nights (copy)"
 time: 1757765871
 author: "a_partovii"
 wallpaper: "Gbi3zeIXgVIBAAAAbHXUth5xfMc"
 @
 bubbleCorner: 19
 bubbleOutline: 1
-parentTheme: 2
-wallpaperId, wallpaperOverrideButton, wallpaperOverrideDate, wallpaperOverrideMediaReply, wallpaperOverrideOverlay, wallpaperOverrideTime, wallpaperOverrideUnread: 0
-wallpaperUsageId: 2
+parentTheme, wallpaperUsageId: 2
+wallpaperOverrideButton, wallpaperOverrideDate, wallpaperOverrideMediaReply, wallpaperOverrideOverlay, wallpaperOverrideTime, wallpaperOverrideUnread: 0
 #
 background, fileAttach: #212121
 badge, bubbleOut_progress, chatListAction, chatSendButton, online, seekDone, ticks, ticksRead: #1EAAF1
 bubble_chatBackground: #31435778
-bubble_chatSeparator, bubble_mediaReply, bubbleIn_separator, chatSeparator, iv_separator, separator: #303030
+bubble_chatSeparator, bubbleIn_separator, chatSeparator, iv_separator, separator: #303030
+bubble_mediaReply: #3030309D
 bubble_mediaReply_noWallpaper, bubbleOut_background, circleButtonRegular, headerBackground, headerButton, ivHeader, messageVerticalLine, playerCoverPlaceholder: #222E3C
 bubble_messageSelection, bubble_messageSelectionNoWallpaper, messageSelection: #1EAAF18E
 bubbleIn_textLink, bubbleOut_file, bubbleOut_textLink, file, fileGreen, fileRed, fileYellow, iv_textLink, textLink, togglerActiveBackground: #58AAE8
@@ -24,9 +24,7 @@ bubbleOut_textLinkPressHighlight: #58AAE864
 bubbleOut_ticks, bubbleOut_ticksRead, fillingPositive: #5EAAD0
 bubbleOut_waveformActive, waveformActive: #7BD1FD
 bubbleOut_waveformInactive, waveformInactive: #555
-chatBackground: #141414
 circleButtonChatIcon, playerButtonActive: #FFF
-circleButtonTheme: #1E1E1E
 drawer: #FFF0
 filling: #151515
 fillingPressed: #242423
