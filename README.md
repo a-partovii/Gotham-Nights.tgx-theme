@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="Images/logo.png" width="250" alt="Project Logo">
+      <img src="Images/logo.png" width="300" alt="Project Logo">
     </td>
     <td>
       <h2>Gotham Nights</h2>
