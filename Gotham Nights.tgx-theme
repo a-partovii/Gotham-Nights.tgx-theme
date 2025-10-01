@@ -9,16 +9,16 @@ bubbleOutline: 1
 parentTheme, wallpaperUsageId: 2
 wallpaperOverrideButton, wallpaperOverrideDate, wallpaperOverrideMediaReply, wallpaperOverrideOverlay, wallpaperOverrideTime, wallpaperOverrideUnread: 0
 #
-background, fileAttach: #212121
+background, chatSeparator, fileAttach: #212121
 badge, bubbleOut_progress, chatListAction, chatSendButton, online, seekDone, ticks, ticksRead: #1EAAF1
-bubble_chatBackground: #31435778
-bubble_chatSeparator, bubbleIn_separator, chatSeparator, iv_separator, separator: #303030
-bubble_mediaReply: #3030309D
-bubble_mediaReply_noWallpaper, bubbleOut_background, circleButtonRegular, headerBackground, headerButton, ivHeader, messageVerticalLine, playerCoverPlaceholder: #222E3C
+bubble_chatBackground, chatBackground: #31435778
+bubble_chatSeparator, bubbleIn_separator, iv_separator, separator: #303030
+bubble_date_noWallpaper, bubble_mediaReply: #3030309D
+bubble_mediaReply_noWallpaper, bubbleOut_background, circleButtonRegular, headerBackground, ivHeader, playerCoverPlaceholder: #222E3C
 bubble_messageSelection, bubble_messageSelectionNoWallpaper, messageSelection: #1EAAF18E
-bubbleIn_textLink, bubbleOut_file, bubbleOut_textLink, file, fileGreen, fileRed, fileYellow, iv_textLink, textLink, togglerActiveBackground: #58AAE8
+bubbleIn_textLink, bubbleOut_file, bubbleOut_textLink, file, fileGreen, fileRed, fileYellow, headerButton, iv_textLink, textLink, togglerActiveBackground: #58AAE8
 bubbleIn_textLinkPressHighlight, textLinkPressHighlight: #58AAE867
-bubbleOut_chatVerticalLine: #FDFDFD
+bubbleOut_chatVerticalLine, messageVerticalLine: #FDFDFD
 bubbleOut_inlineText: #FFFAFA
 bubbleOut_textLinkPressHighlight: #58AAE864
 bubbleOut_ticks, bubbleOut_ticksRead, fillingPositive: #5EAAD0
@@ -46,3 +46,4 @@ togglerActive, togglerInactive: #FFFDFD
 togglerInactiveBackground: #8A8A8A
 togglerPositive: #0D9C1F
 togglerPositiveBackground: #64D872
+
