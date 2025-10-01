@@ -10,7 +10,7 @@
       Black(#212121 <sub><img src="Images/assets/212121.png" width="15"></sub> ), 
       Midnight Blue(#222E3C <sub><img src="Images/assets/222E3C.png" width="15"></sub> ),
       Grey(#303030 <sub><img src="Images/assets/303030.png" width="15"></sub> ),  
-      with Light Blue accent(#1EAAF1 <sub><img src="Images/assets/1EAAF1.png" width="15"></sub> , #7BD1FD <sub><img src="Images/assets/7BD1FD.png" width="15"></sub> )</p>
+      with Light Blue accent(#1EAAF1 <sub><img src="Images/assets/1EAAF1.png" width="15"></sub> , #7BD1FD <sub><img src="Images/assets/7BD1FD.png" width="15"></sub>)</p>
     </td>
   </tr>
 </table>
